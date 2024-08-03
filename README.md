@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @logatchi
-- 👀 I’m interested in ML and DL 
-- 🌱 I’m currently learning ML Engineer
-- 💞️ I’m looking to collaborate on ML challenge @kaggle
-- 📫 How to reach me @Logatchi191
+- 👀 I’m interested in DS
+- 🌱 I’m currently learning DS
+- 💞️ I’m looking to collaborate on DS challenge @kaggle
+- 📫 How to reach me @Logatchii
 
 <!---
 logatchi/logatchi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
